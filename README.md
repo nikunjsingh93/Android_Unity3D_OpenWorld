@@ -1,5 +1,5 @@
 # Android Unity3D OpenWorld
-Android Open World Simulator made using Unity 3D
+Android Open World Simulator made using Unity 3D. Assets and Library not added due to storage constraints.
 
 # Screenshots:
 
